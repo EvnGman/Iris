@@ -4,7 +4,7 @@ RDML Iris Plus Manual
 Contents:
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
   
    Overview
    RC_Controller
